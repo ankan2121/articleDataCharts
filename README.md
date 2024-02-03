@@ -1,2 +1,2 @@
 # articleDataCharts
-kareAI assignment to show data in chart format
+ show data in chart format
